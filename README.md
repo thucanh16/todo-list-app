@@ -1,2 +1,3 @@
 # todo-list-app
-repository thực hành cho học phần nhập môn công nghệ phần mềm 
+Bài thực hành số 2
+Nguyễn Thị Thục Anh
